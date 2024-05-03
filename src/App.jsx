@@ -22,7 +22,7 @@ const App = () => {
       </div>
       <div className="link-container">
         <ul className="link-list">
-          <Link href="javascript:void(0);">LinkedIn</Link>
+          <Link href="https://www.linkedin.com/in/cameronkamilyoung">LinkedIn</Link>
           <Link href="https://github.com/cmrnyng">GitHub</Link>
         </ul>
       </div>
