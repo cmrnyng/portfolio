@@ -3,7 +3,7 @@ import { Text3D, Center } from "@react-three/drei";
 
 export const Title = () => {
   const viewport = useThree(state => state.viewport);
-  // 1.535
+
   return (
     <Center scale={viewport.width / 9}>
       <Text3D
