@@ -4,7 +4,9 @@ export const Portfolio = () => {
 			<div className="section-1">
 				<div className="page-heading">
 					<h1>Portfolio</h1>
-					<a href="javascript:void(0);">cmrn-yng.com</a>
+					<a href="" onClick={e => e.preventDefault()}>
+						cmrn-yng.com
+					</a>
 				</div>
 				<p className="page-description">
 					A minimal and responsive portfolio built using React and animated with Framer Motion. 3D
